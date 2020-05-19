@@ -1,0 +1,6 @@
+# Here in my gitignore, I will put some files used by IntelliJ and also some desnecessary stuff.
+
+out/
+.attach_pid6730
+.idea/
+UniversityFX.iml
